@@ -1,4 +1,4 @@
-# **Watch Performance Tracker Dashboard**
+# **Sales Performance Tracker Dashboard**
 
 ## 📖 **Overview**
 The **Performance Dashboard** is a comprehensive visual analytics tool that offers meaningful insights into the watch company's production patterns. This dashboard, created using **Power BI**, enables stakeholders to make data-driven choices more effectively.
